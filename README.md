@@ -8,4 +8,4 @@ Provided actionable insights to help improve strategic decision-making for hotel
 I’m proud of how this project turned out and eager to apply these skills to more complex data challenges. A big thank you to the Mentorness team for their continuous support and guidance.
 
 Live Dashboard Link Here:
-https://app.powerbi.com/groups/me/reports/c88dbf96-0b21-4816-aa1c-b601a8c7c235/ReportSection?experience=power-bi
+https://app.powerbi.com/view?r=eyJrIjoiYWNlMmVhZjgtYzQzYS00MTllLWJjZDYtYmQyMGEyMDY4YTk1IiwidCI6IjY0ZGZkYzE2LTU5Y2YtNDQ5OC1hM2VhLTMwZjQyZGY1MTZkMiJ9&embedImagePlaceholder=true
